@@ -1,0 +1,76 @@
+{
+  "libros": [
+    {
+      "isbn": "978-0142437230",
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "año_publicacion": 1949,
+      "genero": "Ciencia Ficción",
+      "disponible": true
+    },
+    {
+      "isbn": "978-0061120084",
+      "titulo": "To Kill a Mockingbird",
+      "autor": "Harper Lee",
+      "año_publicacion": 1960,
+      "genero": "Ficción",
+      "disponible": true
+    },
+    {
+      "isbn": "978-0544003415",
+      "titulo": "The Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "año_publicacion": 1937,
+      "genero": "Fantasía",
+      "disponible": true
+    },
+    {
+      "isbn": "978-0451524935",
+      "titulo": "The Great Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "año_publicacion": 1925,
+      "genero": "Ficción",
+      "disponible": true
+    },
+    {
+      "isbn": "978-0141439518",
+      "titulo": "Pride and Prejudice",
+      "autor": "Jane Austen",
+      "año_publicacion": 1813,
+      "genero": "Romance",
+      "disponible": true
+    },
+    {
+      "isbn": "001",
+      "titulo": "Le temes a la Oscuridad",
+      "autor": "Juan Londoño",
+      "año_publicacion": 2200,
+      "genero": "Terror",
+      "disponible": true
+    }
+  ],
+  "usuarios": [
+    {
+      "id_usuario": "U001",
+      "nombre": "Juan Pérez",
+      "contacto": "juan@email.com"
+    },
+    {
+      "id_usuario": "U002",
+      "nombre": "María García",
+      "contacto": "maria@email.com"
+    },
+    {
+      "id_usuario": "U003",
+      "nombre": "Carlos Rodríguez",
+      "contacto": "carlos@email.com"
+    },
+    {
+      "id_usuario": "U004",
+      "nombre": "Ana López",
+      "contacto": "ana@email.com"
+    }
+  ],
+  "prestamos": [],
+  "contador_prestamos": 1
+}
